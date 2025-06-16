@@ -3,8 +3,8 @@ class MobileTerminal < Formula
 
   desc "The terminal moves with you - Access your terminal from any mobile device"
   homepage "https://github.com/josharsh/term-cast"
-  url "https://files.pythonhosted.org/packages/source/m/mobile-terminal/mobile_terminal-0.2.1.tar.gz"
-  sha256 "6cd78fd17d7686ca7c86692de065e61a8d49a1d8706dd81adc5cdb4b7c5e2387"
+  url "file:///Users/josharsh/Desktop/josharsh_npm/term-cast-0.2.1.tar.gz"
+  sha256 "a49056e0c28f14e2fb70feaf1b33b0ec4aa74d1497302b17b0cc52e34258f701"
   license "MIT"
   version "0.2.1"
 
