@@ -1,10 +1,10 @@
 class Recall < Formula
   desc "Smart command tracking and alias generation for ZSH - Learn your workflow, optimize your commands"
   homepage "https://github.com/josharsh/recall"
-  url "https://github.com/josharsh/recall/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "427dc0cfa1584dc445b86dc5f4bbd1221f380291b64aa6243d450b8e014ffd86"
+  url "https://github.com/josharsh/recall/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d0ae5604504530a1effa8be2ccc9648ed33e4bf9ebfeefc477ac3c00ee1a727f"
   license "MIT"
-  version "0.1.0"
+  version "0.1.1"
 
   depends_on "zsh"
 
